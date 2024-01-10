@@ -1,5 +1,5 @@
 # 06_PyAPI_Challenge
-Challenge 6 for UC Berkeley Data Analytics Bootcamp. In this assignment, we are using what we learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
+Challenge 6 for UC Berkeley Data Analytics Bootcamp. In this assignment, I used what we learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
 ### Part 1: WeatherPy
 In this deliverable, I created a Python script to visualize the weather of over 500 cities of varying distances from the equator. The citipy Python library and the [OpenWeatherMap API]( https://openweathermap.org/api) were used to create a representative model of weather across cities.
